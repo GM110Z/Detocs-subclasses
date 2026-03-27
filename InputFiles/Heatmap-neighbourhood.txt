@@ -1,0 +1,80 @@
+Detocs	Detocs_count	Detocs-subtype	Detocs-subtype_count
+AbiH	1	argonaute_type_I	1
+AbiP2	1	PDC-S19	3
+AbiE	1	PDC-S03	1
+AspAB	1	PDC-S55	1
+BREX_I	1	dXTPase	2
+BstA	1	PDC-S26	1
+cbass_other	6	PDC-S29	1
+cbass_type_I	2	PDC-S26	1
+cbass_type_III	228	PDC-S29	1
+cbass_type_IV	2	RM_Type_I	6
+Dazbog	1	septu_type_I	3
+Cernunnos	1	PDC-S07	3
+dCTPdeaminase	1	PDC-S15	2
+DRT_class_I	4	AbiJ	1
+DRT6	2	RM_Type_IV	5
+DS-12B	2	VP1851	1
+DS-23	1	apyc1	1
+DS-24	1	Paris	1
+DS-35	2	PT_SspABCD	1
+DS-38	5	SoFic	6
+Dynamins	1	PDC-S02	3
+gabija	19	Hna	1
+hachiman_type_I	1	BrxU	1
+HEC-08	6	tmn	1
+ietAS	1	PDC-S28	1
+Esos	2	Tiamat	1
+Gao_Ppl	3	Lamassu_Family	5
+PDC-M01	3	PDC-S52	1
+PDC-M15	1	PDC-S31	2
+PDC-M27	2	ShosTA	2
+PDC-M60	1	RosmerTA	1
+PDC-S01	1	PDC-S41	3
+PDC-S02	10	cbass_type_I	4
+PDC-S04	2	pycsar_effector	3
+PDC-S06	9	PDC-S35	1
+PDC-S07	1	shedu	1
+PDC-S08	2	PDC-S01	2
+PDC-S12	1	PDC-S11	1
+PDC-S20	1	gabija	2
+PDC-S24	1	PDC-S63	1
+PDC-S26	1	PDC-S23	1
+PDC-S31	33	AbiE	3
+PDC-S35	2	RM_type_IIG	1
+PDC-S39	1	Shango	1
+PDC-S46	1	wadjet_type_III	1
+PDC-S52	1	cas_type_I-E	1
+PDC-S53	1	PDC-M49	1
+PDC-S59	1	cas_type_other	1
+PDC-S62	1	AbiD	1
+PDC-S64	3	RM_type_II	1
+PDC-S65	8	PDC-S05	1
+Lamassu_Family	3	cbass_type_II	2
+Mokosh_TypeI	10	PDC-S24	1
+Mokosh_TypeII	6	PDC-S16	1
+Paris	2	AbiE	#REF!
+PD-Lambda-1	2	DS-17	1
+PD-T4-4	1	Toutatis	1
+PD-T4-5	1	Prometheus	1
+PD-T4-6	2	CARD_NLR_Endonuclease	1
+PD-T7-1or5	2	SanaTA	1
+Hypnos	4	psiab	2
+Mok_Hok_Sok	1	Wadjet_III	1
+Prometheus	3	TIR-I	1
+PrrC	1		
+psiab	2		
+Retron_II	1		
+RloC	9		
+RM_type_I	4		
+RM_type_IIG	1		
+RM_type_III	1		
+RM_Type_IV	1		
+septu_type_I	6		
+Shango	8		
+SoFic	2		
+wadjet_type_I	4		
+Thoeris_III	4		
+TIR-III	4		
+UG7	4		
+SspBCDE	4		
