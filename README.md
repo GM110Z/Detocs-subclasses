@@ -20,7 +20,7 @@ python heatmaps_from_m8.py \
 *Check input files folder for formatting of all.xlsx input file*
 
 **AthenianV2.1.sh**:Better version of https://github.com/GM110Z/Phage-defence-scripts/blob/main/Defence-islands-finder/ATHENIAN.sh
-Retrieves the neighbourhood of a specified genome list, given coordinates (see input files for format). Runs as:
+Retrieves the neighbourhood of a specified protein Refseq ID list. Runs as:
  python athenianv2.py \                                                                
     -i input.athenian.txt \
     -k 25 \ #this is the Kb you want to allow each side of seed protein
