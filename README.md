@@ -16,3 +16,12 @@ python heatmaps_from_m8.py \
   1.Get a group of homologues for your protein A and B using blastp or similar. Add a prefix to each homologue in the fasta header (i.e. >ProteinA_WPxxx)
   2. Run Mmseqs2 as follows:
   mmseqs easy-search all.faa all.faa all_vs_all.m8 tmp --format-output "query,target,fident,alnlen,evalue,bits"
+**heatmap-neighbourhoods.py**: runs as :-i all.xlsx --mode zscore --n-left 120 --n-right 80
+*Check input files folder for formatting of all.xlsx input file*
+
+**AthenianV2.1.sh**:Better version of https://github.com/GM110Z/Phage-defence-scripts/blob/main/Defence-islands-finder/ATHENIAN.sh
+Retrieves the neighbourhood of a specified genome list, given coordinates (see input files for format). Runs as:
+ python athenianv2.py \                                                                
+    -i input.athenian.txt \
+    -k 25 \ #this is the Kb you want to allow each side of seed protein
+    -t 8 #threads
